@@ -1,0 +1,49 @@
+# Node.js / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+
+# Vite
+frontend/.vite/
+
+# Logs
+logs/
+*.log
+
+# Java / Backend
+backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.env
+backend/.DS_Store
+
+# Maven
+backend/.mvn/
+backend/mvnw*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.swo
+
+# Test coverage
+coverage/
+
+# Build outputs
+*.jar
+*.war
+*.iml
+
+# Environment files
+.env
+.env.*
