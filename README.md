@@ -5,9 +5,9 @@ A modern healthcare management platform for hospitals, clinics, and healthcare p
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/home.png" alt="MediHub Home Page" width="800"/>
+  <img src=".\assists\home.png" alt="MediHub Home Page" width="800"/>
   <br/><br/>
-  <img src="screenshots/dashboard.png" alt="Doctor Dashboard" width="800"/>
+  <img src=".\assists\Dashboard.png" alt="Doctor Dashboard" width="800"/>
 </div>
 
 ## Features
