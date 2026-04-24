@@ -2,6 +2,14 @@
 
 A modern healthcare management platform for hospitals, clinics, and healthcare providers. MediHub streamlines appointment scheduling, medical records, pharmacy inventory, user management, and analytics in a single web application.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/home.png" alt="MediHub Home Page" width="800"/>
+  <br/><br/>
+  <img src="screenshots/dashboard.png" alt="Doctor Dashboard" width="800"/>
+</div>
+
 ## Features
 - **Role-based Dashboards:** Admin, Doctor, Patient, Pharmacy Staff
 - **Appointment Booking & Management**
@@ -81,17 +89,3 @@ admin
 
 admin@example.com       admin123
 
-
-doctor
-
-shree@gmail.com        Password@123
-
-sam@gmail.com          Password@123
-
-Thara@gmail.com        Password@123
-
-
-patient
-
-
-user@gmail.com      Password@123
